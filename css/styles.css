@@ -1,0 +1,173 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Karla', sans-serif;
+  background-color: #8ac6d1;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Kaushan Script', cursive;
+  padding-top:50px;
+  font-weight: normal;
+  font-size: 5rem;
+  color: #66fbfb;
+  line-height: 2;
+}
+
+h2{
+  font-family: 'Baloo Da 2', cursive;
+  font-size: 2.5rem;
+  color: #66fbfb;
+  padding: 80px;
+
+}
+.contact-massege{
+  text-align: left;
+  width: 30%;
+  margin: 80px auto 80px auto;
+  line-height: 2;
+}
+.text01{
+  color: #40514E;
+  padding-top: 30px;
+  padding-bottom: 80px;
+}
+.text06{
+  text-align: left;
+  width: 30%;
+  margin: 80px auto 80px auto;
+  line-height: 2;
+  color: #40514E;
+  padding-bottom: 80px;
+}
+
+
+h3{
+  font-family: 'Baloo Da 2', cursive;
+color: #11999E;
+}
+
+.me{
+  margin: 0 auto 50px auto;
+  font-family: 'Kaushan Script', sans-serif;
+  font-size: 30px;
+  font-weight: normal;
+  color:#66fbfb;
+  line-height: 2;
+}
+.asam{
+  color:#d63447;
+}
+
+.top-container{
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 90px;
+}
+.ava{
+  width: 20%;
+}
+
+hr{
+  margin: 80px auto 80px;
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width:12px;
+  padding-top: 80px;
+  color: #EAF6F6;
+}
+
+.middle-container{
+
+
+}
+.bottom-container{
+  background-color: #66FBFB;
+  padding: 50px 0 20px;
+
+}
+.pro {
+  color: #d63447;
+}
+
+.bottom-cloud{
+  position: absolute;
+  bottom: 300px;
+  right:70%;
+  margin:50px auto 0 auto;
+}
+
+.top-cloud{
+  position: absolute;
+  left:70%;
+  top:50px;
+}
+.skill-row{
+  margin: 100px auto 100px auto;
+text-align: left;
+  width:50%;
+  line-height: 1.7;
+
+}
+.skills1{
+  border-radius: 2rem;
+  width: 30%;
+  float: left;
+  margin-right: 25px;
+
+}
+.skills2{
+  border-radius: 2rem;
+  width: 30%;
+  float: right;
+  margin: auto 0 auto 30px;
+
+}
+.footer-link{
+  color: #11999E;
+}
+.property{
+  color:#EAF6F6;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+.contact-me{
+  color: #40514E;
+}
+.myButton {
+	box-shadow: 0px 10px 14px -7px #24e0c1;
+	background:linear-gradient(to bottom, #30e5f2 5%, #316269 100%);
+	background-color:#30e5f2;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#dadff5;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+  margin-bottom: 50px;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #316269 5%, #30e5f2 100%);
+	background-color:#316269;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+a{
+  font-family: 'Karla', sans-serif;
+  color: #11999e;
+  margin: 10px 20px 30px 20px;
+  padding-bottom: 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
